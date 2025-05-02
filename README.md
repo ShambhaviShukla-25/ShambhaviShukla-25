@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋 </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java and Python <br>🎯 Goals: To develop better programming skills</p>
+<p align="left">📚 I'm currently learning Java and Python <br>🎯 Current Goal: To develop better programming skills</p>
 
 ###
 
